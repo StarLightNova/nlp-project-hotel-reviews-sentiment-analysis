@@ -1,0 +1,82 @@
+{
+  "training": [
+    {
+      "input_x_train": "something",
+      "id": 1
+    },
+    {
+      "input_x_train": "I hate this hotel!",
+      "id": 2
+    },
+    {
+      "input_x_train": "I hate this hotel!",
+      "id": 3
+    },
+    {
+      "input_x_train": "The good one!",
+      "id": 4
+    },
+    {
+      "input_x_train": "This is the worst hotel ever!",
+      "id": 5
+    },
+    {
+      "input_x_train": "On 4/7 my flight got canceled by Frontier, noreservation flight was found to fit my schedule. I had to cancel my hotel reservation, I emailed the hotel and Booking.com, the hotel refunded the full amount to Booking.com since the reservationwas made through them, Booking.com refunded me $24.65 out of $486.92, this a rubbery, they’re not even interested in offering credit for near future rebooking. It’s ver frustrating that they’re getting away with this sleazy business practices.",
+      "id": 6
+    },
+    {
+      "input_x_train": "Hi horrible experience with the site\n\nThey cancelled my booking 3 days prior to travel. I could not get any hotel room in Srinagar\n\nI had booked 1 month in advance\n\nHorrible people\n\nHorrible customer support",
+      "id": 7
+    },
+    {
+      "input_x_train": "happy happy",
+      "id": 8
+    },
+    {
+      "input_x_train": "Not trusted, discriminate, abusive service - outstanding nonsense treatment - our service are down of the minimum.\n\nCouldn't comminution create outgoing, just treatment and phishing.\n\nThe property 1 start are fake, and dangerous provocative.\n\nJust incident then not accomodations or not refund.\n\nDisappointed\n\nSpam online campaign",
+      "id": 9
+    }
+  ],
+  "sentiments": [
+    {
+      "text": "something",
+      "sentiment": "1",
+      "id": 1
+    },
+    {
+      "text": "I hate this hotel!",
+      "sentiment": "1",
+      "id": 2
+    },
+    {
+      "text": "The good one!",
+      "sentiment": "1",
+      "id": 3
+    },
+    {
+      "text": "This is the worst hotel ever!",
+      "sentiment": "0",
+      "id": 4
+    },
+    {
+      "text": "On 4/7 my flight got canceled by Frontier, noreservation flight was found to fit my schedule. I had to cancel my hotel reservation, I emailed the hotel and Booking.com, the hotel refunded the full amount to Booking.com since the reservationwas made through them, Booking.com refunded me $24.65 out of $486.92, this a rubbery, they’re not even interested in offering credit for near future rebooking. It’s ver frustrating that they’re getting away with this sleazy business practices.",
+      "sentiment": "1",
+      "id": 5
+    },
+    {
+      "text": "Hi horrible experience with the site\n\nThey cancelled my booking 3 days prior to travel. I could not get any hotel room in Srinagar\n\nI had booked 1 month in advance\n\nHorrible people\n\nHorrible customer support",
+      "sentiment": "0",
+      "id": 6
+    },
+    {
+      "text": "happy happy",
+      "sentiment": "1",
+      "id": 7
+    },
+    {
+      "text": "Not trusted, discriminate, abusive service - outstanding nonsense treatment - our service are down of the minimum.\n\nCouldn't comminution create outgoing, just treatment and phishing.\n\nThe property 1 start are fake, and dangerous provocative.\n\nJust incident then not accomodations or not refund.\n\nDisappointed\n\nSpam online campaign",
+      "sentiment": "0",
+      "id": 8
+    }
+  ]
+}
