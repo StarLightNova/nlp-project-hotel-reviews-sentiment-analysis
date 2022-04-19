@@ -22,4 +22,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+html {
+  background-image: linear-gradient(180deg, #26a0da, #314755);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
 </style>
