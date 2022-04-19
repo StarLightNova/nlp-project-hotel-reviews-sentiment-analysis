@@ -35,6 +35,26 @@
     {
       "input_x_train": "Not trusted, discriminate, abusive service - outstanding nonsense treatment - our service are down of the minimum.\n\nCouldn't comminution create outgoing, just treatment and phishing.\n\nThe property 1 start are fake, and dangerous provocative.\n\nJust incident then not accomodations or not refund.\n\nDisappointed\n\nSpam online campaign",
       "id": 9
+    },
+    {
+      "input_x_train": "Everything perfect from arrival to departure, Felt welcomed by hosts immediately, Friendly, helpful, communicated what we needed to know clearly, went above and beyond to ensure we were welcome and happy during our stay. Food was excellent - breakfast was high quality and presume local produce. Room was comfortable and to high standard. Plenty of parking.",
+      "id": 10
+    },
+    {
+      "input_x_train": "Hi horrible experience with the site\n\nThey cancelled my booking 3 days prior to travel. I could not get any hotel room in Srinagar\n\nI had booked 1 month in advance\n\nHorrible people\n\nHorrible customer support",
+      "id": 11
+    },
+    {
+      "input_x_train": "I booked a hotel on Booking .com app as I have done for at least 5 years spending thousands of pounds.\n\nMy credit card was charged twice by TPI a scam company within Booking.com.\n\nThere joke of a customer services.Who employ people who do care and may even be criminals.Just keep passing you from one to another.Making up stories as you prove them wrong.Hipefully they will go bust soon.The company is rotten from the top.As they took public money during Covid from the dutch government whilst pay big dividends to share holders .\n\nIf you value your money never deal with this company you have been warned by a person who cares",
+      "id": 12
+    },
+    {
+      "input_x_train": "My booking.com booking no was 2405.963.426.\n\nThey cheated me in collaboration with their service partner Park lane Apartment clarges Appartment London.\n\nI booked this apartment thru booking.com from 19th to 23rd March22 on a heavy price of 155000, my spouse had a back injury and when I called hotel they mentioned they have fully functional elevators , when I reached No lift was working and manager was not ready to even talk on call, I immidately called booking.com, they suggested me to book another place and they will refund the paid amount, I booked as suggested and paid another hotel about 20% more for last minute and to my surprise now booking.com is deniying to refund the money.\n\nPls do not trust these cheaters, they do these frauds in collaboration with their partner properties.\n\nBeware",
+      "id": 13
+    },
+    {
+      "input_x_train": "All the staff were both very welcoming and highly efficient. The bedrooms and the sitting rooms were attractive and comfortable. The food was excellent",
+      "id": 14
     }
   ],
   "sentiments": [
@@ -77,6 +97,31 @@
       "text": "Not trusted, discriminate, abusive service - outstanding nonsense treatment - our service are down of the minimum.\n\nCouldn't comminution create outgoing, just treatment and phishing.\n\nThe property 1 start are fake, and dangerous provocative.\n\nJust incident then not accomodations or not refund.\n\nDisappointed\n\nSpam online campaign",
       "sentiment": "0",
       "id": 8
+    },
+    {
+      "text": "Everything perfect from arrival to departure, Felt welcomed by hosts immediately, Friendly, helpful, communicated what we needed to know clearly, went above and beyond to ensure we were welcome and happy during our stay. Food was excellent - breakfast was high quality and presume local produce. Room was comfortable and to high standard. Plenty of parking.",
+      "sentiment": "1",
+      "id": 9
+    },
+    {
+      "text": "Hi horrible experience with the site\n\nThey cancelled my booking 3 days prior to travel. I could not get any hotel room in Srinagar\n\nI had booked 1 month in advance\n\nHorrible people\n\nHorrible customer support",
+      "sentiment": "0",
+      "id": 10
+    },
+    {
+      "text": "I booked a hotel on Booking .com app as I have done for at least 5 years spending thousands of pounds.\n\nMy credit card was charged twice by TPI a scam company within Booking.com.\n\nThere joke of a customer services.Who employ people who do care and may even be criminals.Just keep passing you from one to another.Making up stories as you prove them wrong.Hipefully they will go bust soon.The company is rotten from the top.As they took public money during Covid from the dutch government whilst pay big dividends to share holders .\n\nIf you value your money never deal with this company you have been warned by a person who cares",
+      "sentiment": "0",
+      "id": 11
+    },
+    {
+      "text": "My booking.com booking no was 2405.963.426.\n\nThey cheated me in collaboration with their service partner Park lane Apartment clarges Appartment London.\n\nI booked this apartment thru booking.com from 19th to 23rd March22 on a heavy price of 155000, my spouse had a back injury and when I called hotel they mentioned they have fully functional elevators , when I reached No lift was working and manager was not ready to even talk on call, I immidately called booking.com, they suggested me to book another place and they will refund the paid amount, I booked as suggested and paid another hotel about 20% more for last minute and to my surprise now booking.com is deniying to refund the money.\n\nPls do not trust these cheaters, they do these frauds in collaboration with their partner properties.\n\nBeware",
+      "sentiment": "0",
+      "id": 12
+    },
+    {
+      "text": "All the staff were both very welcoming and highly efficient. The bedrooms and the sitting rooms were attractive and comfortable. The food was excellent",
+      "sentiment": "1",
+      "id": 13
     }
   ]
 }
